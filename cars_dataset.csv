@@ -1,0 +1,23 @@
+Customer_ID,Car_Model,Fuel_Type,ECC,Price,Manufacturer
+1,Swift,Petrol,1200,650000,Maruti Suzuki
+2,Baleno,Petrol,650,720000,Maruti Suzuki
+3,WagonR,CNG,2500,680000,Maruti Suzuki
+4,Nexon,Electric,1500,1450000,Tata
+5,Tigor,Electric,998,1250000,Tata
+6,Altroz,Petrol,,780000,Tata
+7,Creta,Petrol,1800,1100000,Hyundai
+8,Verna,Petrol,,1200000,Hyundai
+9,i10,CNG,500,700000,
+10,City,Petrol,2000,1150000,Honda
+11,Amaze,Petrol,3000,750000,Honda
+12,Civic,Petrol,1600,1800000,Honda
+13,XUV300,Petrol,5700,950000,Mahindra
+14,Thar,Petrol,750,1600000,
+15,Scorpio,Petrol,2400,1700000,Mahindra
+16,MG ZS,Electric,1100,2100000,
+17,Comet,Electric,6200,800000,MG
+18,Kwid,Petrol,1300,500000,Renault
+19,Triber,Petrol,4000,650000,Renault
+20,Seltos,Petrol,,1050000,Kia
+21,Tigor,,600,1250000,Honda
+22,Altroz,,800,780000,Mahindra
